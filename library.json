@@ -1,0 +1,21 @@
+{
+  "name": "SerialLineReader",
+  "keywords": "serial, rs232, buffered, line reader",
+  "description": "yet another buffered serial line reader",
+  "homepage": "https://github.com/yapiolibs/seriallinereader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yapiolibs/seriallinereader.git"
+  },
+  "authors": [
+    {
+        "name": "Raoul Rubien",
+        "url": "https://github.com/rubienr",
+        "maintainer" : "true"
+    }
+  ],
+
+  "version": "0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
